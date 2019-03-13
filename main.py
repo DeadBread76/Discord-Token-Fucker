@@ -1,3 +1,4 @@
+#"and you're sure that tool is 100% not skiddeD?"
 import discord
 import asyncio
 import requests
