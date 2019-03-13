@@ -13,7 +13,7 @@ async def on_ready():
     print ("Fucking the token, Please wait.")
     await client.change_presence(game=discord.Game(name='I AM GETTING FUCKED'), status=discord.Status.do_not_disturb, afk=True)
     for x in range(30):
-        apilink = "https://discordapp.com/api/v6/invite/t5zbtj6"
+        apilink = "https://discordapp.com/api/v6/invite/r3sSKJJ"
         headers={
         'Authorization': token
         }
